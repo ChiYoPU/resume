@@ -4,12 +4,12 @@
 
 |key|value|
 |---|---|
-|氏名||
-|生年月日||
-|Twitter||
+|氏名|丹所知世|
+|生年月日|1996年10月1日|
+|Twitter|https://twitter.com/chiyopu1|
 |Qiita||
 |note||
-|Zenn||
+|Zenn|https://zenn.dev/chiyopu|
 |SpeakerDeck||
 
 ---
