@@ -1,4 +1,4 @@
-# { name } resume
+# Tomoyo Tandokoro resume
 
 ## Sample
 
