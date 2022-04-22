@@ -51,7 +51,7 @@
 ## 業務外活動
 
 ### 個人開発
-- Vue.jsを使用したアプリを作成中
+- Vue.js　を使用したアプリを作成中
   - https://github.com/ChiYoPU/Portfolio-Creation
 - AWS
   - 実際に動かし、基本的な知識と操作を勉強中
